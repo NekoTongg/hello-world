@@ -18,7 +18,7 @@
  * Created by XT, 2017/10/1
  */
 
-#include "stdafx.h"
+//#include "stdafx.h"
 #include <string.h>
 #include <stdlib.h>
 #include "linklist.h"
